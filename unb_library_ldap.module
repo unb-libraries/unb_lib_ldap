@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the UNB Library LDAP feature.
+ */
+
+include_once 'unb_library_ldap.features.inc';
